@@ -1,1 +1,1 @@
-# product-card-design
+# responsive-product-cards-design
